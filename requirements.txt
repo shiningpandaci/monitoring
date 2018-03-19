@@ -42,7 +42,7 @@ graphite-web==1.1.2
 
 # Keyring
 #   Changelog: https://github.com/jaraco/keyring/blob/master/CHANGES.rst
-keyring==11.0.0
+keyring==12.0.0
 
 # Logilab Common
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1839
