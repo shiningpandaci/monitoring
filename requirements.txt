@@ -4,7 +4,7 @@ backports.ssl-match-hostname==3.5.0.1
 
 # Beaker
 #   http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-3458
-beaker==1.9.0
+beaker==1.9.1
 
 # Celery
 #   Changelog: http://celery.readthedocs.org/en/latest/changelog.html
