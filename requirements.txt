@@ -8,7 +8,7 @@ beaker==1.9.1
 
 # Celery
 #   Changelog: http://celery.readthedocs.org/en/latest/changelog.html
-celery==4.1.0
+celery==4.1.1
 
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
