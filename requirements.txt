@@ -127,7 +127,7 @@ tornado==5.1
 # Tryton
 #   News: http://www.tryton.org/news/index.html
 #   CVEs: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=tryton
-tryton==4.8.3
+tryton==4.8.4
 tryton==3.0.17     # rq.filter: >=3.0, <3.2
 tryton==2.8.16     # rq.filter: >=2.8, <3.0
 tryton==2.6.16    # rq.filter: >=2.6, <2.8
