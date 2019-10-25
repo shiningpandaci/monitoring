@@ -38,7 +38,7 @@ flask==1.1.1
 
 # Graphite
 #   Changelog: http://graphite.readthedocs.org/en/latest/releases.html
-graphite-web==1.1.5
+graphite-web==1.1.6
 
 # Keyring
 #   Changelog: https://github.com/jaraco/keyring/blob/master/CHANGES.rst
